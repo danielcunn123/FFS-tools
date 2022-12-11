@@ -24,7 +24,7 @@ There are three main reasons developers may find this project interesting:
 
 <h2>Getting Started</h2>
 
-`wget https://github.com/danielcunn123/FFS-tools.tar.gz`
+`wget https://github.com/danielcunn123/FFS-tools/releases/download/v0.2a-aarch64/FFS-tools.tar.gz`
 
 `tar -xvf FFS-tools.tar.gz ~/ROOT/PATH/OF/FIRMWARE`
 
